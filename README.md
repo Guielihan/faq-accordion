@@ -11,11 +11,19 @@ Projeto de FAQ Accordion (Perguntas Frequentes) desenvolvido para facilitar a vi
 ## 🖼️ Capturas de Tela
 
 <div align="center">
-  <img src="assets/image1.png" alt="Preview 1" width="350" style="margin: 10px;"/>
-  <img src="assets/image2.png" alt="Preview 2" width="350" style="margin: 10px;"/>
-  <img src="assets/image3.png" alt="Preview 3" width="350" style="margin: 10px;"/>
-  <img src="assets/image4.png" alt="Preview 4" width="350" style="margin: 10px;"/>
+  <img src="assets/image1.png" alt="Preview Desktop 1" width="350" style="margin: 10px;"/>
+  <img src="assets/image2.png" alt="Preview Desktop 2" width="350" style="margin: 10px;"/>
+  <img src="assets/image3.png" alt="Preview Desktop 3" width="350" style="margin: 10px;"/>
+  <img src="assets/image4.png" alt="Preview Desktop 4" width="350" style="margin: 10px;"/>
 </div>
+
+<div align="center">
+  <img src="assets/mobile.png" alt="Preview Mobile 1" width="180" style="margin: 10px; border-radius: 10px;"/>
+  <img src="assets/mobile2.png" alt="Preview Mobile 2" width="180" style="margin: 10px; border-radius: 10px;"/>
+  <img src="assets/mobile3.png" alt="Preview Mobile 3" width="180" style="margin: 10px; border-radius: 10px;"/>
+</div>
+
+As imagens acima mostram o visual do projeto tanto em desktop quanto em dispositivos móveis (iPhone), demonstrando a responsividade da interface.
 
 ## ⚙️ Requisitos
 
@@ -39,6 +47,9 @@ assets/
   image2.png
   image3.png
   image4.png
+  mobile.png
+  mobile2.png
+  mobile3.png
 css/
   style.css
 js/
